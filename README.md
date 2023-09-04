@@ -1,3 +1,3 @@
 # resolver-module-cid
 
-Module CID: zdiSH6vgmijymzbB6YQQeZMeZw4t7ipzLLLMzoMioRnrEN7BsSoQkPRqxB 
+Module CID: zdiJdDdBJWAdYFTcRa9So5TQQ9f1pYMiMy4dqYcKp9imomQtR11LJUyJyV 

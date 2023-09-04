@@ -13,7 +13,7 @@
         "semantic-release": "semantic-release"
     },
     "dependencies": {
-        "@lumeweb/kernel-libresolver": "^0.1.0-develop.8"
+        "@lumeweb/kernel-libresolver": "^0.1.0-develop.9"
     },
     "devDependencies": {
         "@lumeweb/presetter-kernel-module-preset": "^0.1.0-develop.44"
